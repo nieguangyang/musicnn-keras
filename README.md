@@ -1,5 +1,5 @@
 __network__  
-![image](https://git.woa.com/gynie/musicnn-keras/raw/30a52e673cb8b8f7acaa2a3de53dd8eef73539b6/musicnn/model.png)
+![image](https://github.com/nieguangyang/musicnn-keras/blob/master/musicnn/model.png?raw=true)
 
 __example__  
 code  
