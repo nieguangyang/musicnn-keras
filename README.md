@@ -1,6 +1,7 @@
-__network__  
+## network  
 ![image](https://github.com/nieguangyang/musicnn-keras/blob/master/musicnn/model.png?raw=true)
-
+  
+## example
 __extract tags__  
 code  
 ```
@@ -32,3 +33,6 @@ mnn.visualize(taggram)
 ```  
 output  
 ![image](https://github.com/nieguangyang/musicnn-keras/blob/master/taggram.png?raw=true)
+  
+## reference
+This repo is modified from https://github.com/Quint-e/musicnn_keras
