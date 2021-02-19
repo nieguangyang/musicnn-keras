@@ -1,0 +1,51 @@
+original,unified,category,path,chinese
+guitar,guitar,timbre,timbre-instrument-string-guitar,吉他
+classical,classical,genre,genre-classical,古典
+slow,slow,beat,beat-slow,慢速
+techno,techno,genre,genre-electronic-techno,科技舞曲
+strings,string,timbre,timbre-instrument-string,弦乐
+drums,drum,timbre,timbre-instrument-drum,鼓
+electronic,electronic,genre,genre-electronic,电子音乐
+rock,rock,genre,genre-rock,摇滚
+fast,fast,beat,beat-fast,快速
+piano,piano,timbre,timbre-instrument-piano,钢琴
+ambient,ambient,genre,genre-electronic-ambient,氛围音乐
+beat,beat,beat,beat,节拍
+violin,violin,timbre,timbre-instrument-string-violin,小提琴
+vocal,vocal,timbre,timbre-vocal,人声
+synth,synth,timbre,timbre-instrument-synth,合成器
+female,female,timbre,timbre-vocal-female,女声
+indian,indian,genre,timbre-world music-indian,印度
+opera,opera,genre,genre-classical-opera,歌剧
+male,male,timbre,timbre-vocal-male,男声
+singing,singing,form,form-singing,唱歌
+vocals,vocal,timbre,timbre-vocal,人声
+no vocals,no vocal,timbre,timbre-vocal-no vocal,无人声
+harpsichord,harpsichord,timbre,timbre-instrument-string-harpsichord,大键琴
+loud,loud,timbre,timbre-loud,大声
+quiet,quiet,timbre,timbre-quiet,小声
+flute,flute,timbre,timbre-instrument-flute,长笛
+woman,female,timbre,timbre-vocal-female,女声
+male vocal,male,timbre,timbre-vocal-male,男声
+no vocal,no vocal,timbre,timbre-vocal-no vocal,无人声
+pop,pop,genre,genre-pop,流行
+soft,soft,timbre,timbre-soft,轻柔
+sitar,sitar,timbre,timbre-instrument-string-sitar,西塔琴
+solo,solo,genre,genre-classical-solo,独奏
+man,male,timbre,timbre-vocal-male,男声
+classic,classical,genre,genre-classical,古典
+choir,choir,genre,genre-classical-choir,合唱
+voice,vocal,timbre,timbre-vocal,人声
+new age,new age,genre,genre-new age,新世纪
+dance,dance,form,form-dance,舞蹈
+male voice,male,timbre,timbre-vocal-male,男声
+female vocal,female,timbre,timbre-vocal-female,女声
+beats,beat,beat,beat,节拍
+harp,harp,timbre,timbre-instrument-string-harp,竖琴
+cello,cello,timbre,timbre-instrument-string-cello,大提琴
+no voice,no vocal,timbre,timbre-vocal-no vocal,无人声
+weird,weird,timbre,timbre-vocal-weird,奇怪
+country,country,genre,genre-country,乡村
+metal,metal,genre,genre-metal,金属
+female voice,female,timbre,timbre-vocal-female,女声
+choral,choir,genre,genre-classical-choir,合唱

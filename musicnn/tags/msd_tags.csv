@@ -1,0 +1,51 @@
+original,unified,category,path,chinese
+rock,rock,genre,genre-rock,摇滚
+pop,pop,genre,genre-pop,流行
+alternative,alternative,genre,genre-alternative,另类
+indie,indie,genre,genre-indie,独立音乐
+electronic,electronic,genre,genre-electronic,电子音乐
+female vocalists,female,timbre,timbre-vocal-female,女声
+dance,dance,form,form-dance,舞蹈
+00s,00s,era,era-00s,2000年代
+alternative rock,alternative rock,genre,genre-rock-alternative rock,另类摇滚
+jazz,jazz,genre,genre-jazz,爵士
+beautiful,easy listening,genre,genre-easy listening,轻音乐
+metal,metal,genre,genre-metal,金属
+chillout,chillout,genre,genre-electronic-chillout,驰放
+male vocalists,male,timbre,timbre-vocal-male,男声
+classic rock,classic rock,genre,genre-rock-classic rock,经典摇滚
+soul,soul,genre,genre-r&b-soul,灵魂音乐
+indie rock,indie rock,genre,genre-rock-indie rock,独立摇滚
+mellow,mellow,timbre,timbre-vocal-mellow,醇厚
+electronica,electronic,genre,genre-electronic,电子音乐
+80s,80s,era,era-80s,80年代
+folk,folk,genre,genre-folk,民谣
+90s,90s,era,era-90s,90年代
+chill,chillout,genre,genre-electronic-chillout,驰放
+instrumental,no vocal,timbre,timbre-vocal-no vocal,无人声
+punk,punk,genre,timbre-punk,朋克
+oldies,oldies,scene,scene-oldies,老歌
+blues,blues,genre,genre-blues,蓝调
+hard rock,hard rock,genre,genre-rock-hard rock,硬摇滚
+ambient,ambient,genre,genre-electronic-ambient,氛围音乐
+acoustic,acoustic,timbre,timbre-acoustic,原声
+experimental,experimental,genre,genre-experimental,实验音乐
+female vocalist,female,timbre,timbre-vocal-female,女声
+guitar,guitar,timbre,timbre-instrument-string-guitar,吉他
+hiphop,hiphop,genre,genre-hiphop,嘻哈
+70s,70s,era,era-70s,70年代
+party,party,scene,scene-party,派对
+country,country,genre,genre-country,乡村
+easy listening,easy listening,genre,genre-easy listening,轻音乐
+sexy,sexy,timbre,timbre-vocal-sexy,性感
+catchy,catchy,scene,scene-catchy,上口的
+funk,funk,genre,genre-r&b-funk,放克
+electro,electronic,genre,genre-electronic,电子音乐
+heavy metal,heavy metal,genre,genre-metal-heavy metal,重金属
+progressive rock,progressive rock,genre,genre-rock-progressive rock,前卫摇滚
+60s,60s,era,era-60s,60年代
+r&b,r&b,genre,genre-r&b,节奏布鲁斯
+indie pop,indie pop,genre,genre-pop-indie pop,独立流行
+sad,sad,scene,scene-sad,悲伤
+house,house,genre,genre-electronic-house music,浩室音乐
+happy,happy,scene,scene-happy,快乐
